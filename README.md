@@ -4,6 +4,8 @@
 [image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
+In this repository you will find my submission for the dog-breed-classification project of Udacity Deep Learning Nano Degree
+program. 
 
 ## Project Overview
 
